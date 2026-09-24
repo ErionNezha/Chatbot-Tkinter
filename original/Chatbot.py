@@ -55,7 +55,7 @@ pairs = [
     ],
     [
         r"what is your name ?",
-        ["I am a bot created by Codingwithsagar. you can call me crazy!",]
+        ["I am a bot created by Erion Nezha. you can call me crazy!",]
     ],
 
     [
@@ -135,7 +135,7 @@ pairs = [
 ]
 
 def chat():
-    print("Hi! I am a chatbot created by Codingwithsagar for your service")
+    print("Hi! I am a chatbot created by Erion Nezha for your service")
     chat = Chat(pairs, reflections)
     chat.converse()
 #initiate the conversation
